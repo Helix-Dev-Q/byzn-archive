@@ -100,7 +100,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 7.00-CL-4629139         	| 6th December 2018      	 | UE4.22-4629139	    |		 Download : [1](https://builds.rebootfn.org/7.00.rar)  |	
 | 7.10-CL-4667333	       	| 18th December 2018           	 | UE4.22-4667333	    |		 Download : [1](https://builds.rebootfn.org/7.10.rar) |		
 | 7.20-CL-4727874	       	| 22nd January 2019             	 | UE4.22-4727874	    |		 Download : [1](https://builds.rebootfn.org/7.20.rar) |		
-| 7.30-CL-4834550         	| 29th January 2019       	 | UE4.22-4834550	    |		 Download : [1](https://builds.rebootfn.org/7.30.zip) ; [2](https://galaxiafn.co.uk/7.30.zip) |	
+| 7.30-CL-4834550         	| 29th January 2019       	 | UE4.22-4834550	    |		 Download : [1](https://builds.rebootfn.org/7.30.zip) ; [2](https://galaxiafn.co.uk/7.30.zip) ; [3](http://builds.zaplink.space/7.30.zip) |	
 | 7.40-CL-5046157         	| 13th February 2019     	 | UE4.22-5046157	    |		 Download : [1](https://builds.rebootfn.org/7.40.rar)  |	
 
 # Season 8
@@ -156,7 +156,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 12.20-CL-12170032  | 17th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.20.rar)
 | 12.21-CL-12353830	 | 24th March 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.21.zip)
 | 12.40-CL-12837456  | 15th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.40.rar)
-| 12.41-CL-12905909  | 21st April 2020    | UE4.24 | Download : [1](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://cdn.cbn.lol/12.41) ; [3](https://fn-builds.repressoh.it/12.41-CL-12905909-Windows.zip) ; [4](https://gofile.io/d/6O8nBf) (Note: 1 is very slow) |
+| 12.41-CL-12905909  | 21st April 2020    | UE4.24 | Download : [1](https://web.archive.org/web/20241214144234/https://public.simplyblk.xyz/Fortnite%2012.41.zip) ; [2](https://cdn.cbn.lol/12.41) ; [3](https://fn-builds.repressoh.it/12.41-CL-12905909-Windows.zip) ; [4](https://gofile.io/d/6O8nBf) ; [5](https://fileforge.cc/f/4efa3a08) (Note: 1 is very slow) |
 | 12.50-CL-13137020	 | 29th April 2020    | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.50.zip)
 | 12.60-CL-13315662  | 20th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.60-CL-13477524.7z)
 | 12.61-CL-13498980  | 26th May 2020      | UE4.24 | Download : [1](https://fn-builds.repressoh.it/12.61.zip)
@@ -179,7 +179,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 14.30-CL-14456520	| 13th October 2020   | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.30-CL-14456520.rar)
 | 14.40-CL-14550713	| 21st October 2020   | UE4.25 | Download : [1](http://forcedfnbuilds.website/14.40.rar) ; [2](https://fn-builds.repressoh.it/14.40.rar) |		
 | 14.50-CL-14643651 | 3rd November 2020   | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.50-CL-14643651.7z) |
-| 14.60-CL-14786821 | 18th November 2020  | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.60.rar)  |		
+| 14.60-CL-14786821 | 18th November 2020  | UE4.25 | Download : [1](https://fn-builds.repressoh.it/14.60.rar) ; [2](http://builds.zaplink.space/14.60.7z)  |		
 
 # Season 15
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
