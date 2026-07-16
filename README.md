@@ -147,7 +147,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 11.30-CL-10547923 | 12th December 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.30.7z) |
 | 11.31-CL-10800459	| 18th December 2019| UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.31.rar) |
 | 11.40-CL-11039906 | 15th January 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.40-CL-11039906.7z)
-| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.50.7z)
+| 11.50-CL-10899158 | 5th February 2020 | UE4.24 | Download : [1](https://fn-builds.repressoh.it/11.50.7z) ; [2](https://pics.carti.club/11.50.7z)
 # Season 12
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ | 
