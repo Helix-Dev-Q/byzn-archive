@@ -19,7 +19,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 # Pre-BattleRoyale
 |   Build  | Date          	 | Engine Version	    |		    Download links             |		  
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://gofile.io/d/IV7BUC) ; [2](https://store-eu-par-1.gofile.io/download/web/a5a3850d-9e08-4cd2-9d3f-923f4a547607/%2B%2BFortnite%2BCert-CL-3532353.7z) ; [3](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) ; [4](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) UPDATED |
+| Cert-CL-3532353 | 20th July 2017              | UE4.16-3532353           | Download : [1](https://fnbuilds.site/Cert-CL-3532353.7z) ; [2](https://drive.google.com/file/d/1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37/view) ; [3](https://archive.org/download/fortnite-cert-cl-3532353-1.-7z/%2B%2BFortnite%2BCert-CL-3532353%20%281%29.7z) UPDATED |
 | 1.2-CL-3541083 |  21st July 2017      	 | UE4.16-3541083	    |		Download : [1](https://mega.nz/file/9vdxhQqb#KQa_WEcVRdsBN0gwmQdaHpFDtq1k34xZVxX0uyzFVws) TEMPORARY (Download before it gets taken down!) |
 
 # Season 0 & 1
@@ -298,7 +298,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | 26.00-CL-27424790 | 25th August 2023 | UE5.3 | [1](https://fnbuilds.site/26.00-CL-27424790.7z) |
 | 26.10-CL-27681420 | 12th September 2023 | UE5.3 | [1](https://fnbuilds.site/26.10-CL-27681420.7z) |
 | 26.20-CL-28096793 | 26th September 2023 | UE5.3 | [1](https://fnbuilds.site/26.20-CL-28096793.7z) | 
-| 26.30-CL-28509302 | 10th October 2023 | UE5.3 | [1](https://r2.ploosh.dev/26.30.zip) | [2](https://fnbuilds.site/26.30-CL-28509302.7z) |
+| 26.30-CL-28509302 | 10th October 2023 | UE5.3 | [1](https://r2.ploosh.dev/26.30.zip) ; [2](https://fnbuilds.site/26.30-CL-28509302.7z) |
 | 26.30-CL-28688692 | 10th October 2023 | UE5.3 | [1](https://r2.ploosh.dev/26.30-CL-28688692.zip) |
 
 # Season 27
@@ -312,7 +312,7 @@ Sticky Note : Most C4+ builds are empty because of the bugged links not being fi
 | Build | Date | Engine Version | Download links |
 |-|-|-|-|
 | 28.00-CL-29915848 | 3rd December 2023 | UE5.5 | Download : [1](https://store9.gofile.io/download/web/05e6fa8b-fe90-42d7-98ff-0d5f3dfa6fa2/28.00-CL-29915848.7z) TEMPORARY (Download before it gets taken down!)
-| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | Link down, dm @wallonia on discord if you got a link!
+| 28.01-CL-30106568 | 19th December 2023 | UE5.5 | [1](https://fnbuilds.site/28.01-CL-30106568.7z)
 | 28.01-CL-30313795 | 19th December 2023| UE5.5 | Link down, dm @wallonia on discord if you got a link!
 | 28.10-CL-30676362 | 23rd January 2024 | UE5.5 | Link down, dm @wallonia on discord if you got a link!|
 | 28.20-CL-31165234 | 5th February 2024 | UE5.5 | [1](https://fn-builds.repressoh.it/28.20-CL-31165234-Windows.zip)
